@@ -1,0 +1,1 @@
+var json_point_0609_1 = {"type":"FeatureCollection","name":"point_0609_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","name":"9호관","비고":"hhh"},"geometry":{"type":"Point","coordinates":[128.801922446621177,35.910362255675714]}}]}
